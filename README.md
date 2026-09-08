@@ -1,4 +1,4 @@
-# Crypto Market Data Pipeline | PySpark, Databricks, Delta Lake
+## Crypto Market Data Pipeline | PySpark, Databricks, Delta Lake
 
 Built an automated pipeline using Python and Databricks Jobs to pull daily crypto market metrics from the CoinGecko API.
 
